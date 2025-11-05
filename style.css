@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+h1{
+    font-style: italic;
+    color:darkviolet;
+}
+h2{
+    color:aqua
+    font-weight:200;
+ }
+
+.imagem{
+    widthh:50%
+}
+.lista {
+    text-align: right;
+    color:aquamarine
+}
+.pizza {
+    color:darkmagenta
+}
